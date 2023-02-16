@@ -1,6 +1,6 @@
 # ML_Detect_Fake_News
 
-In a world where media spreads in seconds, we're often left wondering whether the news we consume is the real deal. In order to combat this issue, we can use machine learning to determine if the news we are reading is real, or if we have a case of "fake news".
+In an age where the world is at the palm of your hand, we're often left wondering whether the news we consume is the legit. In order to combat this issue, we can use machine learning to determine if the news we are reading is real, or "fake news".
 
 DESCRIPTION
 
